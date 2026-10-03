@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1d4ed8"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#eef4ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="900" fill="url(#bg)"/>
+  <circle cx="1180" cy="140" r="170" fill="#60a5fa" opacity="0.16"/>
+  <circle cx="180" cy="760" r="200" fill="#22c55e" opacity="0.12"/>
+  <text x="90" y="130" fill="#ffffff" font-family="Arial, sans-serif" font-size="54" font-weight="700">Facial Emotion Detector Using CNN</text>
+  <text x="90" y="178" fill="#dbeafe" font-family="Arial, sans-serif" font-size="24">Notebook-based deep-learning project for facial emotion recognition and CNN-driven image classification.</text>
+
+  <rect x="90" y="240" width="1220" height="570" rx="28" fill="url(#panel)" opacity="0.98"/>
+
+  <rect x="140" y="300" width="300" height="420" rx="24" fill="#f8fbff"/>
+  <rect x="190" y="350" width="200" height="200" rx="100" fill="#dbeafe"/>
+  <circle cx="245" cy="420" r="18" fill="#1e3a8a"/>
+  <circle cx="335" cy="420" r="18" fill="#1e3a8a"/>
+  <path d="M245 495 Q290 540 335 495" stroke="#1e3a8a" stroke-width="16" fill="none" stroke-linecap="round"/>
+  <text x="170" y="610" fill="#0f172a" font-family="Arial, sans-serif" font-size="28" font-weight="700">Input Face Image</text>
+  <text x="170" y="650" fill="#475569" font-family="Arial, sans-serif" font-size="20">Preprocessing and feature-ready facial crop</text>
+
+  <rect x="520" y="300" width="320" height="420" rx="24" fill="#f8fbff"/>
+  <text x="565" y="360" fill="#0f172a" font-family="Arial, sans-serif" font-size="30" font-weight="700">CNN Modeling Workflow</text>
+  <rect x="565" y="395" width="230" height="54" rx="14" fill="#dbeafe"/>
+  <text x="595" y="430" fill="#1e3a8a" font-family="Arial, sans-serif" font-size="22" font-weight="700">Convolution Layers</text>
+  <rect x="565" y="470" width="230" height="54" rx="14" fill="#dcfce7"/>
+  <text x="610" y="505" fill="#166534" font-family="Arial, sans-serif" font-size="22" font-weight="700">Pooling Stages</text>
+  <rect x="565" y="545" width="230" height="54" rx="14" fill="#fee2e2"/>
+  <text x="610" y="580" fill="#991b1b" font-family="Arial, sans-serif" font-size="22" font-weight="700">Dense Layers</text>
+  <rect x="565" y="620" width="230" height="54" rx="14" fill="#ede9fe"/>
+  <text x="590" y="655" fill="#5b21b6" font-family="Arial, sans-serif" font-size="22" font-weight="700">Emotion Classes</text>
+
+  <rect x="920" y="300" width="330" height="420" rx="24" fill="#f8fbff"/>
+  <text x="960" y="360" fill="#0f172a" font-family="Arial, sans-serif" font-size="30" font-weight="700">Project Deliverables</text>
+  <text x="960" y="425" fill="#334155" font-family="Arial, sans-serif" font-size="24">• Jupyter experimentation notebook</text>
+  <text x="960" y="475" fill="#334155" font-family="Arial, sans-serif" font-size="24">• CNN training and evaluation workflow</text>
+  <text x="960" y="525" fill="#334155" font-family="Arial, sans-serif" font-size="24">• Supporting PDF report and analysis</text>
+  <text x="960" y="575" fill="#334155" font-family="Arial, sans-serif" font-size="24">• Computer vision portfolio evidence</text>
+  <text x="960" y="655" fill="#1e3a8a" font-family="Arial, sans-serif" font-size="28" font-weight="700">Focus Areas</text>
+  <text x="960" y="700" fill="#475569" font-family="Arial, sans-serif" font-size="22">Emotion recognition, CNN classification,</text>
+  <text x="960" y="732" fill="#475569" font-family="Arial, sans-serif" font-size="22">and notebook-based deep-learning experimentation.</text>
+
+  <path d="M440 510 H510" stroke="#60a5fa" stroke-width="10" stroke-linecap="round"/>
+  <path d="M840 510 H910" stroke="#60a5fa" stroke-width="10" stroke-linecap="round"/>
+</svg>
